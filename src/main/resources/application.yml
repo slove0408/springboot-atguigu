@@ -1,0 +1,7 @@
+spring:
+  messages:
+    basename: i18n.login #国际化
+  thymeleaf:
+    cache: false #关闭缓存
+#server:
+#  port: 80
